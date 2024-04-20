@@ -1,0 +1,7 @@
+{
+    "version": 20200513,
+    "zip-command": "zip nikanegr.zip nikanegr\/app.json nikanegr\/entities\/*.json nikanegr\/intents\/*.json nikanegr\/traits\/*.json nikanegr\/utterances\/*.json nikanegr\/composer\/*.json",
+    "name": "nikanegr",
+    "lang": "ru",
+    "timezone": "Europe\/Minsk"
+}
